@@ -1,6 +1,6 @@
-code_path=~/BART_github/code
-output_path=~/BART_github/Output/
-models_path=~/BART_github/Models/
+code_path=~/MultiAbs/code
+output_path=~/MultiAbs/Output/
+models_path=~/MultiAbs/Models/
 #####################################################################################
 course_dir=cmirror
 
